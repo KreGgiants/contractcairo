@@ -18,3 +18,4 @@ mod HelloStarknet {
 // TESTING 1
 // TEST TEST ETS
 // EM PORTUGUES
+// IN ENGLISH ALSO
